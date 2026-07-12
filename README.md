@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Wenting Luo 👋
 
-<!--
-**wentingluo91/wentingluo91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Analyst | Business Intelligence | SQL | Python | Power BI
 
-Here are some ideas to get you started:
+Data Analyst with a multidisciplinary background in business analytics, design, and user-centered research. Passionate about transforming qualitative and quantitative data into actionable insights that improve business operations and support data-driven decision-making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Experience
+
+- 📊 Data Analyst @ CFA Cabinetry
+- 📦 Former Data Analyst @ Samsung Electronics America
+- 📈 Former Data Analyst @ CreditEase
+
+## 🛠️ Technical Skills
+
+**Languages**
+- SQL
+- Python (Pandas, NumPy)
+
+**BI & Analytics**
+- Power BI
+- Excel
+- Tableau
+- Databricks
+- Alteryx
+
+**Other**
+- Power Automate
+- Google Analytics
+- REST APIs
+- ERPNext
+
+## 📌 Featured Projects
+
+- 📈 Automated BI Reporting & Inventory Dashboard
+- 📦 ERP Implementation & Inventory Analytics
+- 📊 Marketing Attribution Model (SQL)
+- 🚚 Supply Chain Reporting Automation
