@@ -2,7 +2,7 @@
 
 Hi, I'm Wenting Luo.
 
-I explore how data, analytics, and technology can be used to improve business decisions and operational processes.
+Data Analyst focused on Business Intelligence, Data Analytics, and Operations Analytics.
 
 My projects focus on **Business Intelligence, Data Analytics, Automation**, with applications in business and operations.
 
