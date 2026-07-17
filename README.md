@@ -4,6 +4,8 @@
 <b>I'm Wenting Luo</b>
 </p>
 
+# Welcome to my GitHub 👋
+
 I explore how data, analytics, and technology can be used to improve business decisions and operational processes.
 
 My projects focus on **Business Intelligence, Data Analytics, Automation, and Machine Learning**, with applications in business and operations.
