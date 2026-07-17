@@ -12,7 +12,6 @@ My projects focus on **Business Intelligence, Data Analytics, Automation**, with
 - Power BI | Dashboard Development
 - Data Cleaning & ETL
 - Business Analytics
-- Supply Chain & Process Optimization
 
 
 ## Projects
