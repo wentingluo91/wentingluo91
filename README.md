@@ -16,27 +16,34 @@ I focus on using data analytics, automation, and visualization to solve business
 ## Projects
 
 ### 📊 Business Intelligence
-- **[Sales & Profit Performance Dashboard](https://github.com/wentingluo91/sales-and-profit-performance-dashboard)** ####Power BI  
-  Power BI dashboard for sales and profitability analysis.
 
-- **[Customer Retention Dashboard](https://github.com/wentingluo91/customer-retention-dashboard)** ####Power BI 
+- **[Sales & Profit Performance Dashboard](https://github.com/wentingluo91/sales-and-profit-performance-dashboard)**  
+  **Tech:** Power BI  
+  Power BI dashboard for sales performance and profitability analysis.
+
+- **[Customer Retention Dashboard](https://github.com/wentingluo91/customer-retention-dashboard)**  
+  **Tech:** Power BI  
   Customer behavior and retention analysis using Power BI.
 
 
 ### 🏭 Operations & Automation
 
 - **[Manufacturing Management System Research](https://github.com/wentingluo91/manufacturing-management-system-research)**  
+  **Tech:** ERP / WMS / Business Analysis  
   ERP/WMS solution analysis and warehouse process optimization.
 
-- **[Semi-Structured Excel ETL Pipeline](https://github.com/wentingluo91/semi-structured-order-etl)**(Python)    
-  Python automation pipeline for extracting and transforming Excel business data.
+- **[Semi-Structured Excel ETL Pipeline](https://github.com/wentingluo91/semi-structured-order-etl)**  
+  **Tech:** Python, Pandas, OpenPyXL  
+  Python ETL pipeline for extracting and transforming semi-structured Excel business data.
 
 
 ### 🤖 Data Science
 
-- **[Home Depot Predictive Analysis](https://github.com/wentingluo91/home-depot-predictive-analysis)**(R)  
-  Machine learning model development and predictive analytics.
+- **[Home Depot Predictive Analysis](https://github.com/wentingluo91/home-depot-predictive-analysis)**  
+  **Tech:** Python, R, Machine Learning  
+  Predictive analytics project including data preprocessing, feature engineering, and model evaluation.
 
-- **[Social Network Analysis](https://github.com/wentingluo91/social-network-analysis)**(R)    
-  Graph analytics and machine learning using NetworkX.
+- **[Social Network Analysis](https://github.com/wentingluo91/social-network-analysis)**  
+  **Tech:** Python, NetworkX, Machine Learning  
+  Graph analytics and machine learning for identifying influential nodes and analyzing network structures.
 
