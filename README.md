@@ -1,8 +1,8 @@
-# Hi, I'm Wenting Luo 👋
+# Welcome to Wenting Luo's GitHub 👋
 
-Data Analyst with a background in **Business Analytics and Industrial Engineering**.
+I explore how data, analytics, and technology can be used to improve business decisions and operational processes.
 
-I focus on using data analytics, automation, and visualization to solve business and operational problems.
+My projects focus on **Business Intelligence, Data Analytics, Automation, and Machine Learning**, with applications in business and operations.
 
 ## Skills
 
