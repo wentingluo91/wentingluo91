@@ -24,17 +24,19 @@ I focus on using data analytics, automation, and visualization to solve business
 
 
 ### 🏭 Operations & Automation
-- **Manufacturing Management System Research**  
+
+- **[Manufacturing Management System Research](https://github.com/wentingluo91/manufacturing-management-system-research)**  
   ERP/WMS solution analysis and warehouse process optimization.
 
-- **Semi-Structured Excel ETL Pipeline**  
+- **[Semi-Structured Excel ETL Pipeline](https://github.com/wentingluo91/semi-structured-order-etl)**  
   Python automation pipeline for extracting and transforming Excel business data.
 
 
 ### 🤖 Data Science
-- **Home Depot Predictive Analysis**  
-  Machine learning model development and prediction analysis.
 
-- **Social Network Analysis**  
+- **[Home Depot Predictive Analysis](https://github.com/wentingluo91/home-depot-predictive-analysis)**  
+  Machine learning model development and predictive analytics.
+
+- **[Social Network Analysis](https://github.com/wentingluo91/social-network-analysis)**  
   Graph analytics and machine learning using NetworkX.
 
