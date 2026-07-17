@@ -1,37 +1,110 @@
 # Hi, I'm Wenting Luo 👋
 
-### Data Analyst | Business Intelligence | SQL | Python | Power BI
+Data Analyst with a background in **Business Analytics, Operations Management, and Industrial Engineering**.  
+I specialize in transforming business problems into data-driven solutions through analytics, automation, visualization, and process improvement.
 
-Data Analyst with a multidisciplinary background in business analytics, design, and user-centered research. Passionate about transforming qualitative and quantitative data into actionable insights that improve business operations and support data-driven decision-making.
+My interests include:
 
-## 💼 Experience
+- Data Analytics & Business Intelligence
+- Process Optimization
+- Supply Chain & Operations Analytics
+- Data Automation
+- Machine Learning Applications
 
-- 📊 Data Analyst @ CFA Cabinetry
-- 📦 Former Data Analyst @ Samsung Electronics America
-- 📈 Former Data Analyst @ CreditEase
 
 ## 🛠️ Technical Skills
 
-**Languages**
+**Programming & Data Analysis**
+- Python (Pandas, NumPy, Scikit-learn, NetworkX)
 - SQL
-- Python (Pandas, NumPy)
+- Data Cleaning & ETL
+- Statistical Analysis
 
-**BI & Analytics**
+**Visualization & BI**
 - Power BI
-- Excel
-- Tableau
-- Databricks
-- Alteryx
+- Dashboard Development
+- KPI Reporting
+- Data Storytelling
 
-**Other**
-- Power Automate
-- Google Analytics
-- REST APIs
-- ERPNext
+**Operations & Business Analytics**
+- Process Improvement
+- ERP / WMS Analysis
+- Inventory Management
+- Supply Chain Analytics
+- Optimization Modeling
 
-## 📌 Featured Projects
 
-- 📈 Automated BI Reporting & Inventory Dashboard
-- 📦 ERP Implementation & Inventory Analytics
-- 📊 Marketing Attribution Model (SQL)
-- 🚚 Supply Chain Reporting Automation
+# 📂 Featured Projects
+
+
+## 📊 Sales & Profit Performance Dashboard
+**Tools:** Power BI
+
+Interactive dashboard analyzing sales performance, profitability, and business KPIs.
+
+Highlights:
+- Built KPI dashboards for business performance tracking
+- Visualized sales trends and profitability insights
+- Designed reports for decision support
+
+
+## 👥 Customer Retention Dashboard
+**Tools:** Power BI
+
+Customer analytics dashboard focusing on retention performance and customer behavior.
+
+Highlights:
+- Analyzed customer trends and retention metrics
+- Developed interactive visualizations
+- Delivered actionable business insights
+
+
+## 🏭 Manufacturing Management System Research
+**Tools:** Business Analysis / ERP / WMS
+
+Research and analysis of warehouse and manufacturing management system solutions.
+
+Highlights:
+- Assessed current warehouse management challenges
+- Compared ERP, WMS, and low-code solutions
+- Developed implementation roadmap and process improvements
+
+
+## 🔄 Semi-Structured Excel Data ETL Pipeline
+**Tools:** Python, Pandas, OpenPyXL
+
+Python-based ETL pipeline for extracting and transforming semi-structured Excel business data.
+
+Highlights:
+- Automated Excel data extraction
+- Standardized inconsistent business data formats
+- Generated analytics-ready datasets
+
+
+## 🤖 Home Depot Predictive Analysis
+**Tools:** Python, Machine Learning
+
+Machine learning project focused on predictive analytics.
+
+Highlights:
+- Performed data preprocessing and feature engineering
+- Built predictive models
+- Evaluated model performance
+
+
+## 🌐 Social Network Analysis
+**Tools:** Python, NetworkX
+
+Graph-based analysis of social networks.
+
+Highlights:
+- Built network models using graph theory
+- Identified influential nodes using centrality metrics
+- Applied machine learning for behavior prediction
+
+
+# 📫 Contact
+
+LinkedIn: [Your LinkedIn]
+
+Email: [Your Email]
