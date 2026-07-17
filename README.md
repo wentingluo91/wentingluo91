@@ -9,7 +9,7 @@ My projects focus on **Business Intelligence, Data Analytics, Automation**, with
 ## Skills
 
 
-**Data Analytics:** SQL, Python, R, Excel
+**Data Analytics:** SQL, Python, R, Excel, Databricks, Alteryx
 
 **Visualization:** Power BI, Tableau
 
