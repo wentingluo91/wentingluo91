@@ -16,27 +16,27 @@ I focus on using data analytics, automation, and visualization to solve business
 ## Projects
 
 ### 📊 Business Intelligence
-- **[Sales & Profit Performance Dashboard](Power BI)(https://github.com/wentingluo91/sales-and-profit-performance-dashboard)**  
+- **[Sales & Profit Performance Dashboard](https://github.com/wentingluo91/sales-and-profit-performance-dashboard)**(Power BI)  
   Power BI dashboard for sales and profitability analysis.
 
-- **[Customer Retention Dashboard](Power BI)(https://github.com/wentingluo91/customer-retention-dashboard)**  
+- **[Customer Retention Dashboard](https://github.com/wentingluo91/customer-retention-dashboard)**(Power BI)  
   Customer behavior and retention analysis using Power BI.
 
 
 ### 🏭 Operations & Automation
 
-- **[Manufacturing Management System Research](ERPNext)(https://github.com/wentingluo91/manufacturing-management-system-research)**  
+- **[Manufacturing Management System Research](https://github.com/wentingluo91/manufacturing-management-system-research)**  
   ERP/WMS solution analysis and warehouse process optimization.
 
-- **[Semi-Structured Excel ETL Pipeline](Python)(https://github.com/wentingluo91/semi-structured-order-etl)**  
+- **[Semi-Structured Excel ETL Pipeline](https://github.com/wentingluo91/semi-structured-order-etl)**(Python)    
   Python automation pipeline for extracting and transforming Excel business data.
 
 
 ### 🤖 Data Science
 
-- **[Home Depot Predictive Analysis](R)(https://github.com/wentingluo91/home-depot-predictive-analysis)**  
+- **[Home Depot Predictive Analysis](https://github.com/wentingluo91/home-depot-predictive-analysis)**(R)  
   Machine learning model development and predictive analytics.
 
-- **[Social Network Analysis](R)(https://github.com/wentingluo91/social-network-analysis)**  
+- **[Social Network Analysis](https://github.com/wentingluo91/social-network-analysis)**(R)    
   Graph analytics and machine learning using NetworkX.
 
