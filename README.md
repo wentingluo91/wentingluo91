@@ -2,7 +2,7 @@
 
 Hi, I'm Wenting Luo.
 
-Data Analyst focused on Business Intelligence, Data Analytics, and Operations Analytics.
+I am a Data Analyst focused on Business Intelligence, Data Analytics, and Operations Analytics.
 
 My projects focus on **Business Intelligence, Data Analytics, Automation**, with applications in business and operations.
 
