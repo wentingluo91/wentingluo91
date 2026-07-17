@@ -13,7 +13,7 @@ My projects focus on **Business Intelligence, Data Analytics, Automation**, with
 
 **Visualization:** Power BI, Tableau
 
-**Systems & Tools:** ERP/WMS, ERPNext, QuickBooks,REST APIs, Jira, Confluence
+**Systems & Tools:** ERP/WMS, ERPNext, QuickBooks, REST APIs, Jira, Confluence
 
 
 ## Projects
