@@ -38,8 +38,3 @@ I focus on using data analytics, automation, and visualization to solve business
 - **Social Network Analysis**  
   Graph analytics and machine learning using NetworkX.
 
-
-## Contact
-
-LinkedIn: [Your LinkedIn]  
-Email: [Your Email]
