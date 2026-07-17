@@ -15,6 +15,9 @@ My projects focus on **Business Intelligence, Data Analytics, Automation**, with
 
 **Systems & Tools:** ERP/WMS, ERPNext, QuickBooks, REST APIs, Jira, Confluence
 
+**Analytics:** Qualitative Research, Quantitative Analysis, User Behavior Analysis, Requirements Gathering, A/B Testing 
+
+
 
 ## Projects
 
