@@ -48,3 +48,7 @@ My projects focus on **Business Intelligence, Data Analytics, Automation**, with
   🛠️ **Tools:** `Python` `NetworkX` `Machine Learning`  
   Graph analytics and machine learning for network structure analysis.
 
+### Contact me!
+
+If you have any questions, suggestions, or just want to say hello, you can reach out to [Wenting Luo](mailto:wentingluo91@gmail.com). I would love to hear from you!
+
