@@ -16,10 +16,10 @@ I focus on using data analytics, automation, and visualization to solve business
 ## Projects
 
 ### 📊 Business Intelligence
-- **[Sales & Profit Performance Dashboard](https://github.com/wentingluo91/sales-and-profit-performance-dashboard)**(Power BI)  
+- **[Sales & Profit Performance Dashboard](https://github.com/wentingluo91/sales-and-profit-performance-dashboard)** ####Power BI  
   Power BI dashboard for sales and profitability analysis.
 
-- **[Customer Retention Dashboard](https://github.com/wentingluo91/customer-retention-dashboard)**(Power BI)  
+- **[Customer Retention Dashboard](https://github.com/wentingluo91/customer-retention-dashboard)** ####Power BI 
   Customer behavior and retention analysis using Power BI.
 
 
