@@ -1,6 +1,6 @@
-# Welcome to my GitHub 👋
+# Welcome to my GitHub 
 
-Hi, I'm Wenting Luo.
+Hi👋, I'm Wenting Luo.
 
 Data Analyst focused on Business Intelligence, Data Analytics, and Operations Analytics.
 
