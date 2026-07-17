@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=35&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=Hello+👋;I'm+Wenting+Luo" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=35&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=700&lines=I%27m+Wenting+Luo,+welcome+to+my+GitHub" />
 </h1>
 
 I explore how data, analytics, and technology can be used to improve business decisions and operational processes.
