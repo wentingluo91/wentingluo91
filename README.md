@@ -8,20 +8,12 @@ My projects focus on **Business Intelligence, Data Analytics, Automation**, with
 
 ## Skills
 
-**Data Analytics & Programming**  
-Python (Pandas, NumPy, OpenPyXL), SQL, R, Excel, REST APIs
 
-**Business Intelligence & Visualization**  
-Power BI, Tableau, Data Visualization, Dashboard Development
+**Data Analytics:** SQL, Python (Pandas, NumPy), R, Excel
 
-**Data Engineering & Automation**  
-ETL, Data Cleaning, Data Transformation, Python Automation
+**Visualization:** Power BI, Tableau
 
-**Machine Learning & Analytics**  
-Scikit-learn, Predictive Modeling, Feature Engineering, Network Analysis
-
-**Business Systems & Tools**  
-ERP/WMS, ERPNext, QuickBooks, Jira, Confluence
+**Systems & Tools:** ERP/WMS, ERPNext, QuickBooks, Jira, Confluence
 
 
 ## Projects
