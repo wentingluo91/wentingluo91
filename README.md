@@ -46,7 +46,7 @@ My projects focus on **Business Intelligence, Data Analytics, Automation**, with
 ### 🤖 Data Science
 
 - **[Home Depot Predictive Analysis](https://github.com/wentingluo91/home-depot-predictive-analysis)**  
-   **Tools:** `Python` `R` `Machine Learning`  
+   **Tools:** `R` `Machine Learning`  
   Predictive analytics project including data preprocessing, feature engineering, and model evaluation.
 
 - **[Social Network Analysis](https://github.com/wentingluo91/social-network-analysis)**  
